@@ -1,1 +1,1 @@
-# TestGit
+Repository for the git settup, Alexander Chan
